@@ -208,7 +208,7 @@ img{
     margin-right: 30px;
 }
 .kind{
-    width: (calc(100% - 90px) / 4);
+    width: 270px;
 }
 .kind-header{
     color: var(--font-color-header);
