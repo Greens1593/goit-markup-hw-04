@@ -7,7 +7,7 @@
     --font-color-hower-btn: #FFFFFF;
     --hero-font-color: #FFFFFF;
     --header-background-color: #FFFFFF;
-    --main-background-color: #F5F5F5;
+    --main-background-color: #FFFFFF;
     --main-background-color-aditional: #F5F4FA;
     --hero-backround-color: #2F303A;
     --footer-background-color: #2F303A;
@@ -420,13 +420,6 @@ img{
 .btn-filter:hover, .btn-filter:focus{
     background-color: var(--filter-btn-hower-background);
     color: #FFFFFF;
-    cursor: pointer;
-    font-family: inherit;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.62;
-    text-align: center;
-    letter-spacing: 0.03em;
     box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 
